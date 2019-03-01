@@ -1,0 +1,5 @@
+module tests {
+    entity test {
+        field campo1 : Currency
+    }
+}
